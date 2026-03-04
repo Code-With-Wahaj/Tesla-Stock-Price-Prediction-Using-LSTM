@@ -126,6 +126,7 @@ A Stacked LSTM built using TensorFlow and Keras.
 
 ### 📂 Project Structure
 Tesla Stock Price Prediction Using LSTM/
+```text
 │
 ├── README.md
 ├── Tesla.csv
@@ -138,7 +139,7 @@ Tesla Stock Price Prediction Using LSTM/
     ├── scaler.pkl
     ├── config.pkl
     ├── requirements.txt
-
+```
 ### 🚀 How to Run This Project
 #### 🔹 Prerequisites
 
@@ -291,3 +292,4 @@ Metrics are shown during notebook training and inside the Streamlit app.
 
 
 This project is intended for educational and academic purposes.
+
